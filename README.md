@@ -1,4 +1,3 @@
-# Hi there! 👋 I'm Dipak Rana
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Senior+Flutter+Developer;Building+Production-Ready+Mobile+Apps;Clean+Architecture+%7C+Scalable+Code;Let's+Build+Something+Great+Together" alt="Typing SVG" />

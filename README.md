@@ -96,7 +96,7 @@ With deep expertise in **clean architecture, state management (BLoC/Riverpod), a
 
 `Flutter` `Firebase` `Bloc` `Local Storage`
 
-[![Repo](https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github)](https://github.com/dipakrana844/Mind-Vault-App)
+[![Repo](https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github)](https://github.com/erdipakrana/Mind-Vault-App)
 
 </td>
 </tr>
@@ -109,7 +109,7 @@ With deep expertise in **clean architecture, state management (BLoC/Riverpod), a
 
 `Flutter` `Bluetooth` `Provider` `Charts`
 
-[![Repo](https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github)](https://github.com/dipakrana844/BLE-Master-Lab)
+[![Repo](https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github)](https://github.com/erdipakrana/BLE-Master-Lab)
 
 </td>
 <td width="50%">
@@ -127,7 +127,7 @@ With deep expertise in **clean architecture, state management (BLoC/Riverpod), a
 </tr>
 </table>
 
-> **[See all my repositories →](https://github.com/dipakrana844?tab=repositories)**
+> **[See all my repositories →](https://github.com/erdipakrana?tab=repositories)**
 
 ---
 
@@ -147,23 +147,23 @@ With deep expertise in **clean architecture, state management (BLoC/Riverpod), a
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dipakrana844&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="160" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=erdipakrana&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="160" alt="stats graph" />
   <img src="https://streak-stats.demolab.com?user=dipakrana844&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5" height="160" alt="streak graph" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dipakrana844&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=white&area=true&hide_border=true" width="95%" alt="GitHub activity graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=erdipakrana&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=white&area=true&hide_border=true" width="95%" alt="GitHub activity graph"/>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=dipakrana844&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true" alt="trophy graph" />
+  <img src="https://github-profile-trophy.vercel.app?username=erdipakrana&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true" alt="trophy graph" />
 </div>
 
 ---
 
 ## Top Contributed Repos
 
-![](https://github-contributor-stats.vercel.app/api?username=dipakrana844&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=erdipakrana&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 

@@ -8,7 +8,7 @@
   <a href="https://linkedin.com/in/erdipakrana/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:dipak.rana.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://erdipakrana.web.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/></a>
-  <img src="https://komarev.com/ghpvc/?username=dipakrana844&style=for-the-badge&color=brightgreen" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=erdipakrana&style=for-the-badge&color=brightgreen" alt="Profile Views"/>
 </p>
 
 ---
@@ -85,7 +85,7 @@ With deep expertise in **clean architecture, state management (BLoC/Riverpod), a
 
 `Flutter` `Local Database` `Riverpod` `Charts`
 
-[![Repo](https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github)](https://github.com/dipakrana844/expense_app)
+[![Repo](https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github)](https://github.com/erdipakrana/expense_app)
 
 </td>
 <td width="50%">

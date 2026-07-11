@@ -92,9 +92,9 @@ With deep expertise in **clean architecture, state management (BLoC/Riverpod), a
 
 ### 🧠 Mind Vault
 <!-- <img src="screenshots/project2.gif" width="100%" /> -->
-**Mind Vault App** — Note-taking and knowledge management app with organization features and cloud sync.
+**Mind Vault App** — AI-enabled Flutter app for mental wellness tracking, offline-first (Isar), advanced Bloc state management.
 
-`Flutter` `Firebase` `Bloc` `Local Storage`
+`Flutter` `Isar` `Bloc` `AI-enabled`
 
 [![Repo](https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github)](https://github.com/erdipakrana/Mind-Vault-App)
 
@@ -120,8 +120,65 @@ With deep expertise in **clean architecture, state management (BLoC/Riverpod), a
 
 `Flutter` `OpenAI` `Firebase` `Bloc`
 
+[![Play Store](https://img.shields.io/badge/Play_Store-3DDC84?style=flat-square&logo=google-play)](https://play.google.com/store/apps/details?id=com.dev.mealsight)
+[![App Store](https://img.shields.io/badge/App_Store-000000?style=flat-square&logo=apple&logoColor=white)](https://apps.apple.com/app/id6475765668)
 
-[![Play Store](https://img.shields.io/badge/Get_it_on_Play_Store-3DDC84?style=flat-square&logo=google-play)](https://play.google.com/store/apps/details?id=com.dev.mealsight)
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🏫 EG Campus
+**EG Campus** — School Management SaaS: multi-tenant Flutter platform, 12+ institutions, cut admission processing time 30%, RBAC for admin/teacher/student.
+
+`Flutter` `Multi-tenant` `RBAC` `Firebase`
+
+</td>
+<td width="50%">
+
+### 💎 Finestar
+**Finestar** — Diamond Trading App: cross-platform app, 1,500+ traders, real-time market data, 22% faster data retrieval, 95% test coverage.
+
+`Flutter` `REST API` `Real-time`
+
+[![Play Store](https://img.shields.io/badge/Play_Store-3DDC84?style=flat-square&logo=google-play)](https://play.google.com/store/apps/details?id=com.finestar.diamond)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 📦 API Network Kit (Pub Package)
+**api_network_kit** — A lightweight, robust, and clean networking package for Flutter & Dart. Simplifies REST API calls, error handling, and request/response interceptors.
+
+`Dart` `Flutter` `Dio` `REST API` `Package`
+
+[![Pub.dev](https://img.shields.io/badge/Pub.dev-0175C2?style=flat-square&logo=dart)](https://pub.dev/packages/api_network_kit)
+
+</td>
+<td width="50%">
+
+### 💳 Stripe Payment App
+**Stripe Integration** — A production-ready implementation of Stripe Payment Gateway in Flutter, featuring custom checkout, setup intents, and payment intents.
+
+`Flutter` `Stripe` `Payment Gateway` `Bloc`
+
+[![Repo](https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github)](https://github.com/erdipakrana/stripe_app)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 💳 Razorpay Payment App
+**Razorpay Integration** — Robust Razorpay payment integration setup for Flutter apps with seamless checkout, order creation, and payment verification flow.
+
+`Flutter` `Razorpay` `Payment Gateway` `Cubit`
+
+[![Repo](https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github)](https://github.com/erdipakrana/razorpay_app)
+
+</td>
+<td width="50%">
 
 </td>
 </tr>
@@ -163,6 +220,8 @@ With deep expertise in **clean architecture, state management (BLoC/Riverpod), a
 
 ## Top Contributed Repos
 
+Extra info: Top contributed repos by erdipakrana
+
 ![](https://github-contributor-stats.vercel.app/api?username=erdipakrana&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
@@ -180,7 +239,6 @@ From idea to App Store — architecture, UI, backend integration, and deployment
 
 <a href="mailto:dipak.rana.dev@gmail.com"><img src="https://img.shields.io/badge/Hire_Me-Send_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Hire Me"/></a>
 <a href="https://linkedin.com/in/erdipakrana/"><img src="https://img.shields.io/badge/Connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://twitter.com/YOUR_TWITTER"><img src="https://img.shields.io/badge/Follow-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
 
 </div>
 

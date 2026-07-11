@@ -11,8 +11,6 @@
   <img src="https://komarev.com/ghpvc/?username=erdipakrana&style=for-the-badge&color=brightgreen" alt="Profile Views"/>
 </p>
 
----
-
 ## About Me
 
 I help **startups and businesses** ship **production-ready Flutter apps** on iOS & Android — fast, performant, and built to scale.
@@ -23,6 +21,13 @@ With deep expertise in **clean architecture, state management (BLoC/Riverpod), a
 
 ---
 
+## 📊 Proof
+
+| Apps Shipped | Automation Gain | Perf Improvement | Test Coverage |
+|:---:|:---:|:---:|:---:|
+| 15+ | 40% | 2x | 95% |
+
+---
 ## Tech Stack
 
 <table>
@@ -219,7 +224,7 @@ With deep expertise in **clean architecture, state management (BLoC/Riverpod), a
 
 ## Top Contributed Repos
 
-Extra info: Top contributed repos by erdipakrana
+Top contributed repositories for the global GitHub profile [`@erdipakrana`](https://github.com/erdipakrana).
 
 ![](https://github-contributor-stats.vercel.app/api?username=erdipakrana&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
@@ -248,5 +253,3 @@ From idea to App Store — architecture, UI, backend integration, and deployment
 
   **If my work helps you, consider giving a ⭐ — it means a lot!**
 </div>
-
-

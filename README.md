@@ -204,16 +204,15 @@ With deep expertise in **clean architecture, state management (BLoC/Riverpod), a
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=erdipakrana&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="160" alt="stats graph" />
-  <img src="https://streak-stats.demolab.com?user=dipakrana844&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5" height="160" alt="streak graph" />
+  <img src="https://github-stats-extended.vercel.app/api?username=erdipakrana&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="160" alt="stats graph" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=erdipakrana&layout=compact&theme=dracula&hide_border=true" height="160" alt="top langs" />
+  <img src="https://streak-stats.demolab.com?user=erdipakrana&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5" height="160" alt="streak graph" />
 </div>
+
+<br/>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=erdipakrana&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=white&area=true&hide_border=true" width="95%" alt="GitHub activity graph"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=erdipakrana&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true" alt="trophy graph" />
 </div>
 
 ---
